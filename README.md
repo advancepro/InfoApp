@@ -1,5 +1,9 @@
 # InfoApp
 
+#This project help you add some information to your application, the data's are going to be saved into
+
+the database and you are able to display and check.
+
 #Splash screen is designed with program called "Figma"
 
 ![Splash.png](https://github.com/advancepro/InfoApp/blob/master/mid/splash.PNG)
