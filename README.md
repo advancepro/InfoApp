@@ -1,5 +1,7 @@
 # InfoApp
 
+Betul Polat
+
 Description: This project help you add some information to your application, the data's are going to be saved into
 
 the database and you are able to display and check.
