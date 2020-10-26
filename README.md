@@ -15,3 +15,7 @@
 #DataBase SQL Lite
 
 ![database.png](https://github.com/advancepro/InfoApp/blob/master/mid/database.PNG)
+
+#db_table
+
+![db_table](https://github.com/advancepro/InfoApp/blob/master/mid/db_table.PNG)
