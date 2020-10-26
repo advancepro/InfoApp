@@ -2,7 +2,8 @@
 
 Betul Polat / 
 
-Database: MySQLite
+ * Database: MySQLite
+ * Application icon changed
 
 Description: This project help you add some information to your application, the data's are going to be saved into
 
