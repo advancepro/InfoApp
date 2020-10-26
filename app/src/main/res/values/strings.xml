@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Global Health</string>
+
+    <string-array name="programming_languages">
+        <item>Pandemics</item>
+        <item>Environmental Factorial</item>
+        <item>Political Factors</item>
+        <item>NonCommunicable Diseases</item>
+        <item>Animal Health</item>
+        <item>Food Sourcing</item>
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Every year there are newly emerging pandemic threats that cannot be solved,
+            and diagnosing symptoms may only occur after an individual is already infected.</item>
+
+        <item>Growing concerns about the environment center on climate change and air pollution.
+            But how will these challenges directly affect the health of the human population.</item>
+
+        <item>Some of these disparities are related to geography, with rural
+            communities facing the greatest shortage of physicians.
+            Other disparities are the result of income inequality.</item>
+
+        <item>Refugee migration can allow illnesses to quickly spread,
+            but organizations like the WHO stress that the solution is not
+            to simply isolate these large groups of people..</item>
+
+        <item>Heart disease, stroke, cancer, diabetes – these and other
+            noncommunicable diseases (NCDs) account for
+            70 percent of all deaths worldwide.
+            They can be attributed to genetic.</item>
+
+        <item>Animal health is naturally intertwined with humans’.
+            Perhaps the clearest connection occurs within the
+            food chain, as humans grow, process,
+            and consume foode.</item>
+
+    </string-array>
+</resources>

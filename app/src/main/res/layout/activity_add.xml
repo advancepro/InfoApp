@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B3D7FD"
+    android:clickable="true"
+    android:padding="20sp"
+    tools:context=".AddActivity">
+
+    <EditText
+        android:id="@+id/input_title"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_marginTop="200dp"
+        android:background="#C9F8F8"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="Topic Info"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/input_meaning"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="28dp" />
+
+    <EditText
+        android:id="@+id/pages_input"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:background="#C9F8F8"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="Number of pages"
+        android:inputType="number"
+        app:layout_constraintStart_toStartOf="@+id/input_title"
+        app:layout_constraintTop_toBottomOf="@+id/input_meaning" />
+
+    <EditText
+        android:id="@+id/input_meaning"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:background="#C9F8F8"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:hint="Meaning"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toStartOf="@+id/input_title"
+        app:layout_constraintTop_toBottomOf="@id/input_title" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="360dp"
+        android:layout_height="67dp"
+        android:layout_marginBottom="16dp"
+        android:background="#FDD835"
+        android:enabled="true"
+        android:fontFamily="casual"
+        android:text="Add"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_creator="@android:integer/status_bar_notification_info_maxnum"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.313"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
