@@ -1,6 +1,8 @@
 # InfoApp
 
-Betul Polat
+Betul Polat / 
+
+Database: MySQLite
 
 Description: This project help you add some information to your application, the data's are going to be saved into
 
