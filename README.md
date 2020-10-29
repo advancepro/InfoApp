@@ -4,6 +4,9 @@ Betul Polat /
 
  * Database: MySQLite
  * Application icon changed
+ * Figma Design
+ * Recycler View included
+ 
 
 Description: This project help you add some information to your application, the data's are going to be saved into
 
